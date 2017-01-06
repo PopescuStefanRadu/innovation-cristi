@@ -1,2 +1,2 @@
-HTML website for [www.innovation.pub.ro]
+HTML website for www.innovation.pub.ro
 
