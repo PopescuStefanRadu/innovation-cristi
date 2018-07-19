@@ -1146,3 +1146,7 @@ img.image
     padding:0;
     border:none;
 }
+
+h1.art-postheader {
+  text-align: center;
+}
